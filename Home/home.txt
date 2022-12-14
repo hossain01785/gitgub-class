@@ -1,0 +1,12 @@
+Go একটি জনপ্রিয় প্রোগ্রামিং ভাষা।
+
+কম্পিউটার প্রোগ্রাম তৈরি করতে Go ব্যবহার করা হয়।
+
+
+
+package main
+import ("fmt")
+
+func main() {
+  fmt.Println("Hello World!")
+}
